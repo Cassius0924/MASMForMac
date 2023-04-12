@@ -1,5 +1,7 @@
 /src
 /.idea
 
+.DS_Store
+
 HELLO.EXE
 HELLO.OBJ
